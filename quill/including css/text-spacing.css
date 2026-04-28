@@ -1,0 +1,24 @@
+h2 {
+    text-align: left;
+    line-height: 3;
+}
+
+h3 {
+    text-align: center;
+    line-height: none;
+}
+
+h4 {
+    text-align: right;
+    line-height: none;
+}
+
+p {
+    text-align: justify;
+    list-style: 4;
+}
+
+a {
+    text-align: center;
+    line-height: 3;
+}
